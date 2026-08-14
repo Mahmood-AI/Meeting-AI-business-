@@ -1,0 +1,8 @@
+"my_env/" 
+".env" 
+".gradio/" 
+"downloaded_audio.mp3" 
+"__pycache__/" 
+"*.pyc" 
+"*.pyo" 
+"*.log" 
